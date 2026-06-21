@@ -1,0 +1,10 @@
+[package]
+name = "my_bevy_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+getrandom = "0.4.3"
+ggez = "0.10.0"
+oorandom = "11.1.5"
+winit = "0.30.13"
